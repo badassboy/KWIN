@@ -2,10 +2,10 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Kanun - Law Firm Website Template</title>
+        <title>KWIN - Law Firm</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
-        <meta content="Law Firm Website Template" name="keywords">
-        <meta content="Law Firm Website Template" name="description">
+        <meta content="legalities,law,constitution" name="keywords">
+        <meta content="Law Firm website" name="description">
 
         <!-- Favicon -->
         <link href="img/favicon.ico" rel="icon">
@@ -63,8 +63,7 @@
                             </div>
                             <div class="about-text">
                                 <p>
-                                GABORA & ASSOCIATES is a one stop law firm serving both domestic and cooperate clients locally and internationally.
-                                    targeting a clientele base for growth with a touch of class.
+                                 KWIN Law is a professional, full-service law firm in Dallas, TX. Our trademark is our history of excellence and quality serving clients- individuals, families, and businesses through their legal journeys. Throughout the legal process, we are with you providing you with the right legal counsel, attention, and assistance you may need each step of the way. Therefore, if you are looking for a law firm that believes in excellence and values you and your case, and has the experience needed to handle your case, we are the suitable companion for you. Therefore, you can feel confident when you reach out to us with your case. Our competent lawyers will work with you and ensure you get the best outcome for your case.
                                 </p>
                             </div>
 
@@ -174,12 +173,7 @@
                                     <h2>ESQ James Kojo Tsin</h2>
                                     <p>Lawyer</p>
 
-                                    <!-- <div class="team-social">
-                                        <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
-                                        <a class="social-fb" href=""><i class="fab fa-facebook-f"></i></a>
-                                        <a class="social-li" href=""><i class="fab fa-linkedin-in"></i></a>
-                                        <a class="social-in" href=""><i class="fab fa-instagram"></i></a>
-                                    </div> -->
+                                    
 
                                 </div>
                             </div>
@@ -192,12 +186,7 @@
                                 <div class="team-text">
                                     <h2>Gifty Addo Obeng</h2>
                                     <p>Administrative Staff</p>
-                                    <!-- <div class="team-social">
-                                        <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
-                                        <a class="social-fb" href=""><i class="fab fa-facebook-f"></i></a>
-                                        <a class="social-li" href=""><i class="fab fa-linkedin-in"></i></a>
-                                        <a class="social-in" href=""><i class="fab fa-instagram"></i></a>
-                                    </div> -->
+                                   
                                 </div>
                             </div>
                         </div>
@@ -209,19 +198,15 @@
                                 <div class="team-text">
                                     <h2>Gloria Yorke</h2>
                                     <p>Administrative Staff</p>
-                                    <!-- <div class="team-social">
-                                        <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
-                                        <a class="social-fb" href=""><i class="fab fa-facebook-f"></i></a>
-                                        <a class="social-li" href=""><i class="fab fa-linkedin-in"></i></a>
-                                        <a class="social-in" href=""><i class="fab fa-instagram"></i></a>
-                                    </div> -->
+                                   
                                 </div>
                             </div>
                         </div>
+
                         <div class="col-lg-3 col-md-6">
                             <div class="team-item">
                                 <div class="team-img">
-                                    <img src="img/fourth.png" alt="Team Image">
+                                    <img src="img/gyamfi.png" alt="Team Image">
                                 </div>
                                 <div class="team-text">
                                     <h2>Alexander Gyamfi</h2>
@@ -230,6 +215,35 @@
                                 </div>
                             </div>
                         </div>
+
+
+                        <div class="col-lg-3 col-md-6">
+                            <div class="team-item">
+                                <div class="team-img">
+                                    <img src="img/gabora.png" alt="Team Image" style="">
+                                </div>
+                                <div class="team-text">
+                                    <h2>ESQ Samuel G. Gabora</h2>
+                                    <p>Lawyer</p>
+                                    
+                                </div>
+                            </div>
+                        </div>
+
+
+                       <!--  <div class="col-lg-3 col-md-6">
+                            <div class="team-item">
+                                <div class="team-img">
+                                    <img src="img/gyamfi.png" alt="Team Image">
+                                </div>
+                                <div class="team-text">
+                                    <h2>Alexander Gyamfi</h2>
+                                    <p>Administrative Staff</p>
+                                    
+                                </div>
+                            </div>
+                        </div> -->
+
                     </div>
                 </div>
             </div>

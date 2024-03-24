@@ -2,13 +2,13 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Kanun - Law Firm Website Template</title>
+        <title>kWIN - Law Firm</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
-        <meta content="Law Firm Website Template" name="keywords">
-        <meta content="Law Firm Website Template" name="description">
+        <meta content="Law Firm, Lawyers," name="kewords">
+        <meta content="Law Firm devlivering with a world class touch" name="Description">
 
         <!-- Favicon -->
-        <link href="img/favicon.ico" rel="icon">
+        <link href="img/ha.png" rel="icon">
 
         <!-- Google Font -->
         <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,600;1,700;1,800&family=Roboto:wght@400;500&display=swap" rel="stylesheet"> 
@@ -49,7 +49,7 @@
                     <div class="carousel-item">
                         <img src="img/carousel-2.jpg" alt="Carousel Image">
                         <div class="carousel-caption">
-                            <h1 class="animated fadeInLeft">Welcome to GABORA & ASSCOIATES</h1>
+                            <h1 class="animated fadeInLeft">Welcome to KWIN LAW FIRM</h1>
                             <p class="animated fadeInRight">The Firm is made up of 23 Lawyers, the most Senior of whom has over 45 years of practice experience. The legal team is supported by experienced and diligent staff. The firm’s capabilities have provided its Clients with needed solutions to their legal problems.</p>
                             <!-- <a class="btn animated fadeInUp" href="#">Get free consultation</a> -->
                         </div>
@@ -131,10 +131,7 @@
                             </div>
                             <div class="about-text">
                                 <p>
-                                    GABORA & ASSOCIATES is a one stop law firm serving both domestic and cooperate clients locally and internationally.
-                                    targeting a clientele base for growth with a touch of class. 
-                                    Client for client,Lawyer for Lawyer but in all, is a quest for justice and peace.
-                                    EVen a fish is kept in water, so help us Almighty JEHOVAH.
+                                   KWIN Law is a professional, full-service law firm in Dallas, TX. Our trademark is our history of excellence and quality serving clients- individuals, families, and businesses through their legal journeys. Throughout the legal process, we are with you providing you with the right legal counsel, attention, and assistance you may need each step of the way. Therefore, if you are looking for a law firm that believes in excellence and values you and your case, and has the experience needed to handle your case, we are the suitable companion for you. Therefore, you can feel confident when you reach out to us with your case. Our competent lawyers will work with you and ensure you get the best outcome for your case.
                                 </p>
                                
                                 <a class="btn" href="about.php">Learn More</a>

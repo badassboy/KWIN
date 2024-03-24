@@ -2,10 +2,10 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Kanun - Law Firm Website Template</title>
+        <title>KWIN - Law Firm WebsitE</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
-        <meta content="Law Firm Website Template" name="keywords">
-        <meta content="Law Firm Website Template" name="description">
+        <meta content="Legal,constitution" name="keywords">
+        <meta content="Law Firm Website" name="description">
 
         <!-- Favicon -->
         <link href="img/favicon.ico" rel="icon">
@@ -61,21 +61,21 @@
                                     <i class="fa fa-map-marker-alt"></i>
                                     <div class="contact-text">
                                         <h2>Location</h2>
-                                        <p>YF,Asokwa-Kumasi,Ghana</p>
+                                        <p>Kenethwincorn@kwlawfirm.com</p>
                                     </div>
                                 </div>
                                 <div class="contact-item">
                                     <i class="fa fa-phone-alt"></i>
                                     <div class="contact-text">
                                         <h2>Phone</h2>
-                                        <p>+233244883098</p>
+                                        <p>+1 505-717-0706</p>
                                     </div>
                                 </div>
                                 <div class="contact-item">
                                     <i class="fa fa-envelope"></i>
                                     <div class="contact-text">
                                         <h2>Email</h2>
-                                        <p>gaboraandassociates@gmail.com</p>
+                                        <p>Kenethwincorn@kwlawfirm.com</p>
                                     </div>
                                 </div>
                             </div>
