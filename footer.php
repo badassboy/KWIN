@@ -31,6 +31,7 @@
                                 <a href="about.php">About Us</a>
                                 <a href="service.php">Services</a>
                                 <a href="contact.php">Contact Us</a>
+                                <a href="privacy.php">Policy</a>
                                 
                                
                             </div>

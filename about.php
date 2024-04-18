@@ -167,11 +167,11 @@
                         <div class="col-lg-3 col-md-6">
                             <div class="team-item">
                                 <div class="team-img">
-                                    <img src="img/james.png" alt="Team Image">
+                                    <img src="img/bryan.jpg" alt="Team Image">
                                 </div>
                                 <div class="team-text">
-                                    <h2>ESQ James Kojo Tsin</h2>
-                                    <p>Lawyer</p>
+                                    <h2>Bryan L. Sample</h2>
+                                    <p>Attorney</p>
 
                                     
 
@@ -181,11 +181,11 @@
                         <div class="col-lg-3 col-md-6">
                             <div class="team-item">
                                 <div class="team-img">
-                                    <img src="img/gifty.png" alt="Team Image">
+                                    <img src="img/anne.jpg" alt="Team Image">
                                 </div>
                                 <div class="team-text">
-                                    <h2>Gifty Addo Obeng</h2>
-                                    <p>Administrative Staff</p>
+                                    <h2>Anne Nguyen</h2>
+                                    <p>Bilingual Paralegal</p>
                                    
                                 </div>
                             </div>
@@ -193,11 +193,11 @@
                         <div class="col-lg-3 col-md-6">
                             <div class="team-item">
                                 <div class="team-img">
-                                    <img src="img/third.png" alt="Team Image">
+                                    <img src="img/rahlib.jpg" alt="Team Image">
                                 </div>
                                 <div class="team-text">
-                                    <h2>Gloria Yorke</h2>
-                                    <p>Administrative Staff</p>
+                                    <h2>Raghib Mehboob</h2>
+                                    <p>Immigration Specialist</p>
                                    
                                 </div>
                             </div>
@@ -206,18 +206,18 @@
                         <div class="col-lg-3 col-md-6">
                             <div class="team-item">
                                 <div class="team-img">
-                                    <img src="img/gyamfi.png" alt="Team Image">
+                                    <img src="img/yesenia.jpg" alt="Team Image">
                                 </div>
                                 <div class="team-text">
-                                    <h2>Alexander Gyamfi</h2>
-                                    <p>Administrative Staff</p>
+                                    <h2>Yesenia Ponce</h2>
+                                    <p>Bilingual Legal Assistant</p>
                                     
                                 </div>
                             </div>
                         </div>
 
 
-                        <div class="col-lg-3 col-md-6">
+                       <!--  <div class="col-lg-3 col-md-6">
                             <div class="team-item">
                                 <div class="team-img">
                                     <img src="img/gabora.png" alt="Team Image" style="">
@@ -228,7 +228,7 @@
                                     
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
 
                        <!--  <div class="col-lg-3 col-md-6">
